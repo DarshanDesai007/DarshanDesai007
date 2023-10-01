@@ -1,4 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello👋 There</h1>
+
+###
+
+<p align="left">My name is Darshan Desai and I'm a Full Stack Developer || MERN Stack Developer || Software Developer || Node JS Developer || React JS Developer, from Mumbai, Maharashtra, India.</p>
 
 ###
 
@@ -6,7 +10,9 @@
 
 ###
 
-<p align="left">My name is Darshan Desai and I'm a Full Stack Developer || MERN Stack Developer || Software Developer || Node JS Developer || React JS Developer, from Mumbai, Maharashtra, India.</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarshanDesai007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -58,10 +64,10 @@
   <a href="https://www.linkedin.com/in/darshandesai19/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mmmdarshan98@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfrtCMzRDVwrPncCzZLsDlMcFgGxnPxfCdcwWZfsXDkJhRdbFwmXjGpwhlTPDJmxfCtXpL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="_imperialking" target="_blank">
+  <a href="https://discordapp.com/users/396781827202875393" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
