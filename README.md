@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Darshan Desai and I'm a Full Stack Developer || MERN Stack Developer || Software Developer || Node JS Developer || React JS Developer, from Mumbai, Maharashtra, India.</p>
+<p align="left">My Name is Darshan Desai and I'm a Full Stack Developer || MERN Stack Developer || Software Developer || Node JS Developer || React JS Developer, from Mumbai, Maharashtra, India.</p>
 
 ###
 
