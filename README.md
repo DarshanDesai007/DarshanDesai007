@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning full-stack development<br>🎯 Goals: I am a dedicated full-stack web developer with expertise in JavaScript, HTML, Node.js, React.js, MongoDB, and MySQL. I have experience with MVC architecture and have developed projects in Event Management and e-commerce. I am actively seeking opportunities to further enhance my skills and gain practical experience in the field. In my free time, I enjoy playing games, listening to music, and traveling. My goal is to become a proficient full-stack developer and make a meaningful impact in the industry.</p>
+<p align="left">I'm Darshan Desai, a professional software developer who loves working with ASP.NET and JavaScript. I'm passionate about creating new things on the web and making them better. People know me for being quick to learn and good at solving problems. I enjoy working in challenging environments that look forward to what's next. When I develop, I pay close attention to detail and use my creativity to make each project stand out. I'm excited to work with a team that shares my enthusiasm for improving user experiences online and shaping the future of web applications.</p>
 
 ###
 
